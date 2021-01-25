@@ -1,0 +1,334 @@
+a {
+  color: #464646;
+}
+a:hover {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav > .open a {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav > .open a:hover,
+nav.zo2-menu .navbar-nav > .open a:focus {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav .active a {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav .active a:hover,
+nav.zo2-menu .navbar-nav .active a:focus {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav ul.mega-nav li a:hover,
+nav.zo2-menu .navbar-nav ul.mega-nav li a:active,
+nav.zo2-menu .navbar-nav ul.mega-nav li a:focus {
+  color: #464646;
+}
+nav.zo2-menu .navbar-nav ul.mega-nav li.active a {
+  color: #464646;
+}
+#zo2-features .top-features .zo2-feature .zo2-circle {
+  color: #464646;
+}
+#zo2-features .top-features .zo2-feature .zo2-circle:before {
+  box-shadow: 0 0 0 3px #464646;
+}
+#zo2-features .top-features:hover .zo2-circle {
+  background-color: #464646;
+}
+.box-color {
+  background: #464646;
+}
+@media (max-width: 767px) {
+  body nav.zo2-menu .navbar-toggle:hover .icon-bar {
+    background-color: #464646;
+  }
+}
+.btn-success {
+  background-color: #464646;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #464646;
+}
+h3.moduletitle {
+  color: #464646;
+}
+#zo2-zt-top-nav-wrap {
+  background: #464646;
+}
+#zo2-mega-menu .navbar-default ul.navbar-nav > li:hover > a,
+#zo2-mega-menu .navbar-default ul.navbar-nav > li:focus > a,
+#zo2-mega-menu .navbar-default ul.navbar-nav > li.active > a {
+  background: #3B3939 !important;
+}
+#zo2-mega-menu .navbar-default ul.navbar-nav > li .mega-dropdown-menu li:hover > a,
+#zo2-mega-menu .navbar-default ul.navbar-nav > li .mega-dropdown-menu li:focus > a,
+#zo2-mega-menu .navbar-default ul.navbar-nav > li .mega-dropdown-menu li.active > a,
+#zo2-mega-menu .navbar-default ul.navbar-nav > li .mega-dropdown-menu li.open > a {
+  background: #464646;
+}
+#zo2-mega-menu .navbar-default ul.navbar-nav > li .mega-dropdown-menu {
+  border-top: 2px solid #464646;
+}
+#zo2-mega-menu .navbar-default ul.navbar-nav > li > .mega-dropdown-menu:before {
+  border-color: #464646 transparent;
+}
+input.button,
+span.button,
+button.button,
+div.button,
+input[type="submit"],
+input[type="button"],
+.tp-caption .btn,
+#zo2-zt-slogan-wrap .btn,
+.pager li a,
+fieldset.filters .btn,
+.form-actions .btn-primary,
+#searchForm .btn,
+.login-form .btn-primary,
+#helpsite-refresh,
+.logout .btn,
+.form-actions .validate {
+  background: #464646;
+  box-shadow: inset 0 -3px 0px #3B3939;
+  -moz-box-shadow: inset 0 -3px 0px #3B3939;
+  -webkit-box-shadow: inset 0 -3px 0px #3B3939;
+}
+input.button:hover,
+input.button:focus,
+span.button:hover,
+span.button:focus,
+button.button:hover,
+button.button:focus,
+div.button:hover,
+div.button:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+.tp-caption .btn:hover,
+.tp-caption .btn:focus,
+#zo2-zt-slogan-wrap .btn:hover,
+#zo2-zt-slogan-wrap .btn:focus,
+.pager li a:hover,
+.pager li a:focus,
+fieldset.filters .btn:hover,
+fieldset.filters .btn:focus,
+.form-actions .btn-primary:hover,
+.form-actions .btn-primary:focus,
+#searchForm .btn:hover,
+#searchForm .btn:focus,
+.login-form .btn-primary:hover,
+.login-form .btn-primary:focus,
+#helpsite-refresh:hover,
+#helpsite-refresh:focus,
+.logout .btn:hover,
+.logout .btn:focus,
+.form-actions .validate:hover,
+.form-actions .validate:focus {
+  background: #3B3939;
+}
+#zo2-zt-slogan-wrap .btn:after {
+  background: #3B3939;
+  color: #fff;
+}
+#zo2-zt-slogan-wrap {
+  color: #464646;
+}
+#zo2-body-wrap .blog-featured .zt-services .module .readmore {
+  color: #464646;
+}
+#zo2-body-wrap .blog-featured .zt-services .module h3 {
+  color: #464646;
+}
+#zo2-zt-facilities-wrap .item .img:before {
+  background: #464646;
+}
+#zo2-zt-parallax-wrap p span {
+  color: #464646;
+}
+#zo2-zt-userwrap-1-wrap #zo2-position-19 .panel-default >.panel-heading.active h4 a:after,
+#zo2-zt-userwrap-1-wrap #zo2-position-19 .panel-default >.panel-heading:hover h4 a:after {
+  background: #464646;
+}
+#zo2-zt-club-features-wrap .item .img:before {
+  background: #464646;
+}
+#zo2-zt-parallax-slide-wrap .carousel-indicators li.active,
+#zo2-zt-parallax-slide-wrap .carousel-indicators li:hover {
+  border-color: #464646;
+}
+#zo2-zt-parallax-slide-wrap p strong {
+  color: #464646;
+}
+#zo2-zt-userwrap-2-wrap #zo2-position-23 .capabilities .capabilities_value:before {
+  background: #464646;
+}
+#zo2-zt-logo-brand-wrap .owl-controls .owl-prev:hover,
+#zo2-zt-logo-brand-wrap .owl-controls .owl-next:hover {
+  background: #464646;
+}
+#zo2-zt-footer-wrap .tagspopular li a:hover {
+  background: #464646;
+}
+#zo2-zt-bottom-wrap .copyright a:hover {
+  color: #464646;
+}
+#zo2-zt-top-wrap #zo2-position-13 li a:hover {
+  color: #464646;
+}
+#gototop:hover {
+  background: #464646;
+}
+#zo2-breadcrumb-wrap #zo2-zt-breadcrumb .breadcrumb,
+#zo2-breadcrumb-wrap #zo2-zt-breadcrumb .breadcrumb li:before {
+  color: #464646;
+}
+.page-header a:hover,
+.page-header a:active,
+.page-header a:focus {
+  color: #464646;
+}
+.tagswidget a:hover {
+  background: #464646;
+}
+.dropdown-toggle:hover,
+.dropdown-toggle:active,
+.dropdown-toggle:focus {
+  color: #464646;
+}
+h3.categoryTitle a:hover,
+.tag-category li h3 a:hover {
+  color: #464646;
+}
+.blog .article_content {
+  border-top: 3px solid #464646;
+}
+.blog .article_content .article_icon {
+  background: #464646;
+}
+.blog .article_content .article_bottom .itemReadmore {
+  background: #464646;
+}
+.blog .article_content .article_bottom .itemReadmore:hover {
+  background: #3B3939;
+}
+div.tags span a.label-info:hover,
+div.tags span a.label-info:focus {
+  color: #464646;
+}
+#ezblog-body .blog-calendar-month {
+  background: #464646;
+}
+#ezblog-body .blog-calendar .blog-comments a:hover {
+  background: #464646;
+}
+.shortcodes ul.menu li:hover a,
+.shortcodes ul.menu li.active a {
+  background: #464646;
+}
+.offcanvas .sidebar-nav >ul >li.nav-active > a {
+  background: #464646;
+}
+.tp-bullets.simplebullets.round-old .bullet:hover,
+.tp-bullets.simplebullets.round-old .bullet.selected {
+  border-color: #464646;
+}
+.tp-bullets.simplebullets.round-old .bullet:hover:after,
+.tp-bullets.simplebullets.round-old .bullet.selected:after {
+  color: #464646;
+}
+.pagination li.active span,
+.pagination li:hover a {
+  background: #464646 !important;
+}
+#eblog-wrapper .list-pagination li:hover a,
+#eblog-wrapper .list-pagination li.active b {
+  background: #464646 !important;
+}
+#eblog-wrapper .article_content {
+  border-top: 3px solid #464646;
+}
+#eblog-wrapper .article_content .article_icon {
+  background: #464646;
+}
+#eblog-wrapper .article_content .blog-footer .blog-readmore {
+  background: #464646;
+}
+#eblog-wrapper .article_content .blog-footer .blog-readmore:hover {
+  background: #3B3939;
+}
+.item-page .article_content {
+  border-top: 3px solid #464646;
+}
+.item-page .article_content .article_icon {
+  background: #464646;
+}
+.item-page .article_content h1.singleItemTitle {
+  color: #464646;
+}
+.single_article_content {
+  border-top: 3px solid #464646;
+}
+.single_article_content .article_icon {
+  background: #464646;
+}
+.single_article_content .blog-head h1.blog-title {
+  color: #464646;
+}
+#ezblog-body .blog-read .blog-navi li a {
+  color: #464646 !important;
+}
+#section-related .owl-wrapper-outer .owl-wrapper .owl-item > div .readmore {
+  background: #464646;
+}
+#section-related .owl-wrapper-outer .owl-wrapper .owl-item > div .readmore:hover {
+  background: #3B3939;
+}
+#ezblog-body .tab_button #button-related a span:after {
+  background: #464646;
+}
+#section-related .owl-controls .owl-prev:hover,
+#section-related .owl-controls .owl-next:hover {
+  background: #464646;
+}
+#zo2-breadcrumb-wrap #zo2-zt-breadcrumb .breadcrumb a:hover {
+  color: #464646;
+}
+#zo2-position-0 .search .search-inner {
+  background: #464646;
+}
+#zo2-position-0 .search .search-inner .inputbox {
+  background: #464646;
+}
+.pricing_wrap_3 .featured .pricing_box .header,
+.block_pricing .dynamic_featured .pricing_box .header {
+  background: #464646;
+}
+.pricing_wrap_3 .featured .pricing_box a.button,
+.block_pricing .dynamic_featured .pricing_box a.button {
+  background: #464646 !important;
+}
+.faq_block .panel-default >.panel-heading h4 a:hover {
+  color: #464646;
+}
+.faq_block .panel-default >.panel-heading h4 a:hover:before {
+  background: #464646;
+}
+.about-us .progress .progress-bar:before {
+  background: #464646;
+}
